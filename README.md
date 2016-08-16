@@ -7,14 +7,15 @@ Some core functions of async and promise modules.
 > \> node ./test/test.js
 
 test.js contains two groups of tests to test one function of async and one of Promise.    
-*There are more examples to test every function of the package.*
+*There are more examples in ./examples to test every function of the package.*
 
 ## The functions this package has realized
 ### async
 #### Collections
 - concat
 - map
-- each    
+- each
+
 #### Control Flow
 - parallel
 - parallelLimit
