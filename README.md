@@ -30,6 +30,6 @@ test.js contains two groups of tests to test one function of async and one of Pr
 ## References of official modules
 ### async
 1. Documentation: http://caolan.github.io/async/
-2. Source code  : https://github.com/caolan/async
+2. Source code  : https://github.com/caolan/async   
 ### Promise
 - Promises/A+   : https://promisesaplus.com/
