@@ -1,0 +1,19 @@
+{
+  "name": "async_promise",
+  "version": "1.0.0",
+  "description": "Some core functions of async and promise modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "dependencies": {
+    "should": "^11.1.0"
+  },
+  "keywords": [
+    "node",
+    "async",
+    "promise"
+  ],
+  "author": "Ming Tae",
+  "license": "BSD-2-Clause"
+}
